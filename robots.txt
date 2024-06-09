@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wormocke.github.io/sitemap.html
+Sitemap: https://wormocke.github.io/app/sitemap.html
+Sitemap: https://wormocke.github.io/assets/sitemap.html
+Sitemap: https://wormocke.github.io/css/sitemap.html
+Sitemap: https://wormocke.github.io/includes/sitemap.html
+Sitemap: https://wormocke.github.io/item/sitemap.html
+Sitemap: https://wormocke.github.io/src/sitemap.html
